@@ -1,4 +1,4 @@
 def main():
-  print('running linter')
+  print('running lintesr')
 
 main()
